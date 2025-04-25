@@ -1,3 +1,5 @@
+![logo](https://github.com/AfzaalShoukat/AfzaalShoukat/blob/main/cover.png)
+
 # 💫 About Me:
 👋 Hi there, I'm Afzaal Shoukat<br>💻 MERN Stack Developer | 🤝 Freelancer<br><br>I build full-stack web apps using MongoDB, Express, React, and Node.js.<br>Helping clients online and learning new tech every day 🚀<br><br>📍 From Pakistan 🇵🇰<br>🌙 Working mostly at night like a true coder vampire 🧛‍♂️<br><br>🤓 Fun Fact:<br>I debug my code more than I sleep... and sometimes, I dream of bugs too 🐞😂<br><br>Let’s connect and build something awesome! 🌐
 
